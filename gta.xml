@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <ResponseDetails>
+    <PriceCacheResponse>
+      <Hotels>
+        <PriceType>room</PriceType>
+        <Hotel City="LHR" Item="KEN" RecommendedItem="false">
+          <Nights>
+            <Night Date="2013-09-05">
+              <Rates>
+                <Rate Meals="B" MinNights="1" MinPax="1">
+                  <Room Code="CH" FromAge="2" ToAge="18">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[38.75]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="TS">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[103.75]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="TR">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[155.50]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="TB">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[103.75]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="SB">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[103.75]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="DB">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[103.75]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="Q">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[155.50]]></Price>
+                    </Prices>
+                  </Room>
+                </Rate>
+              </Rates>
+            </Night>
+          </Nights>
+          <SpecialOffers>
+            <SpecialOffer>
+              <Offer Code="LM">Last Minute Offer</Offer>
+              <TravelDates>
+                <FromDate>2013-09-01</FromDate>
+                <ToDate>2013-09-15</ToDate>
+              </TravelDates>
+              <OfferType>I</OfferType>
+              <EffectiveDates>
+                <FromDate>2013-07-09</FromDate>
+                <ToDate>9999-12-31</ToDate>
+              </EffectiveDates>
+              <StayForNights>2</StayForNights>
+              <DiscountPercentage>5</DiscountPercentage>
+              <AllowedArrivalDates>12345</AllowedArrivalDates>
+              <ValidStayDates>112345</ValidStayDates>
+              <BookWithin>10</BookWithin>
+            </SpecialOffer>
+          </SpecialOffers>
+        </Hotel>
+        <Hotel City="LHR" Item="KEN2" RecommendedItem="false">
+          <Nights>
+            <Night Date="2013-09-05">
+              <Rates>
+                <Rate Meals="N" MinNights="1" MinPax="1">
+                  <Room Code="CH" FromAge="2" ToAge="18">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[38.75]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="TS">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[64.75]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="TR">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[64.75]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="TB">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[64.75]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="SB">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[64.75]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="DB">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[64.75]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="Q">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[64.75]]></Price>
+                    </Prices>
+                  </Room>
+                </Rate>
+              </Rates>
+            </Night>
+          </Nights>
+          <SpecialOffers>
+            <SpecialOffer>
+              <Offer Code="MN">Minimum Night Discount Offer</Offer>
+              <TravelDates>
+                <FromDate>2013-09-01</FromDate>
+                <ToDate>2013-09-15</ToDate>
+              </TravelDates>
+              <OfferType>I</OfferType>
+              <EffectiveDates>
+                <FromDate>2013-07-09</FromDate>
+                <ToDate>9999-12-31</ToDate>
+              </EffectiveDates>
+              <StayForNights>2</StayForNights>
+              <DiscountPercentage>10</DiscountPercentage>
+              <AllowedArrivalDates>12345</AllowedArrivalDates>
+              <ValidStayDates>12345</ValidStayDates>
+              <ApplicableOfferNights>12345</ApplicableOfferNights>
+            </SpecialOffer>
+          </SpecialOffers>
+        </Hotel>
+        <Hotel City="LHR" Item="KEN3" RecommendedItem="false">
+          <Nights>
+            <Night Date="2013-09-05">
+              <Rates>
+                <Rate Meals="I" MinNights="1" MinPax="1">
+                  <Room Code="CH" FromAge="2" ToAge="18">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[38.75]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="TS">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[518.25]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="TB">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[518.25]]></Price>
+                    </Prices>
+                  </Room>
+                  <Room Code="SB">
+                    <Prices>
+                      <Price Currency="GBP"><![CDATA[388.50]]></Price>
+                    </Prices>
+                  </Room>
+                </Rate>
+              </Rates>
+            </Night>
+          </Nights>
+          <SpecialOffers>
+            <SpecialOffer>
+              <Offer Code="EB">Early Bird Offer</Offer>
+              <TravelDates>
+                <FromDate>2013-09-01</FromDate>
+                <ToDate>2013-09-15</ToDate>
+              </TravelDates>
+              <OfferType>I</OfferType>
+              <EffectiveDates>
+                <FromDate>2013-09-01</FromDate>
+                <ToDate>9999-12-31</ToDate>
+              </EffectiveDates>
+              <StayForNights>2</StayForNights>
+              <DiscountPercentage>10</DiscountPercentage>
+              <AllowedArrivalDates>12345</AllowedArrivalDates>
+              <ValidStayDates>12345</ValidStayDates>
+              <BookBeforeDays>10</BookBeforeDays>
+            </SpecialOffer>
+            <SpecialOffer>
+              <Offer Code="FNN">Free Night</Offer>
+              <TravelDates>
+                <FromDate>2013-09-01</FromDate>
+                <ToDate>2013-09-15</ToDate>
+              </TravelDates>
+              <OfferType>I</OfferType>
+              <EffectiveDates>
+                <FromDate>2013-05-30</FromDate>
+                <ToDate>9999-12-31</ToDate>
+              </EffectiveDates>
+              <StayForNights>7</StayForNights>
+              <PayForNights>5</PayForNights>
+              <MaximumNightsFree>-1</MaximumNightsFree>
+              <AllowedArrivalDates>12345</AllowedArrivalDates>
+              <ValidStayDates>12345</ValidStayDates>
+              <ApplicableOfferNights>12345</ApplicableOfferNights>
+            </SpecialOffer>
+          </SpecialOffers>
+        </Hotel>
+      </Hotels>
+    </PriceCacheResponse>
+  </ResponseDetails>
+</Response>
